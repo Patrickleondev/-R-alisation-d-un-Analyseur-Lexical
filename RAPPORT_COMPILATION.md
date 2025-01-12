@@ -92,7 +92,7 @@ Ce projet met en évidence l'importance des expressions régulières en programm
         ```
         flex code.lex
         gcc lex.yy.c -o code
-        ./analyseur
+        ./code
         ```
         
  
