@@ -8,7 +8,8 @@ Ce projet met en évidence l'importance des expressions régulières en programm
 - Résumé des étapes : Installer les outils nécessaires, configurer l’environnement, écrire le code et analyser différentes expressions.
 
 
-- Confiiguration de l'environnement 
+- Confiiguration de l'environnement
+  
        ```
         sudo apt update
         sudo apt install flex gcc
