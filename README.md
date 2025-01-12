@@ -22,8 +22,8 @@ Ce projet met en évidence l'importance des expressions régulières en programm
 
  - **Description** : Nous allons Compiler et exécuter le code avec les commandes suivantes dans un terminal (Vous devez etre dans le meme repertoire que votre fichier lex contenant le code analyseur )  :
         
-        ```
+        
         flex code.lex
         gcc lex.yy.c -o code
         ./code
-        ```
+        
